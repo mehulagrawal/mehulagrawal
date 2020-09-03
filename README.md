@@ -1,5 +1,7 @@
 ### Hi!
 
+I am a final year undergraduate at BITS Pilani Hyderabad Campus. If you're looking for collaboration on projects related to cryptography, machine learning, computational finance, or any software related projects, you can reach out to me at [mehul.agrawal17@gmail.com](mailto:mehul.agrawal17@gmail.com).
+
 <!--
 **mehulagrawal/mehulagrawal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
